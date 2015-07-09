@@ -15,4 +15,6 @@ Pueden apoyarse con estos repositorios
 
 Y acá pueden ver como usar NetBeans con GitHub.
 
+* https://youtu.be/jB9OgUYjnvw
+
 La Asignacion debe ser entregada por correo o por un repositorio en GitHub antes del lunes 13/07/15, cualquier duda escribirme al correo josevalderrama18@gmail.com

@@ -6,7 +6,7 @@
 package Ventanas;
 
 
-public class ListadoPersonas extends javax.swing.JFrame {
+public class VentanaListadoPersonas extends javax.swing.JFrame {
 
     public static ListadoPersonas listado;
     
@@ -93,7 +93,7 @@ public class ListadoPersonas extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new ListadoPersonas().setVisible(true);
+                new VentanaListadoPersonas().setVisible(true);
             }
         });
     }
